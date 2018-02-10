@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">rich_interfaces</string>
+    <string name="MAPVIEW_BUNDLE_KEY">BUNDLE_KEY</string>
+    <string name="google_maps_key">AIzaSyBWuq0IRJr7E9be-LsjYnhJ5W8HXGoUhx8</string>
+</resources>
